@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+##### My name is Csence I'm a 16 years old high school student from Hungary.
+##### I'm a beginner at programing, but I love what I'm doing.
+- ⚡ Fun fact: **I like mostly work on projects in connection Valorant**
+- 🌱 I’m currently learning **Python**
 <!--
 **Csence/Csence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,5 +15,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ 
 -->
