@@ -15,7 +15,7 @@
 
 ### Github Stats: 
 <img src='https://github-readme-stats.vercel.app/api?username=Csence&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&hide_border=true&line_height=27'/>
-<img  alt="Csence's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Csence&layout=compact" />
+<img  alt="Csence's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Csence&layout=compact&theme=gotham&hide_border=true&line_height=27" />
 
 <!--
 **Csence/Csence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
